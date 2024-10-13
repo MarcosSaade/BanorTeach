@@ -1,5 +1,7 @@
 # Banorteach - Personalized Financial Education App
 
+![image](https://github.com/user-attachments/assets/8ed815d1-83e6-4d01-a1f1-f67eecedb32b)
+
 Banorteach is an innovative financial education app that uses AI-driven scenarios and gamified learning to help users of all experience levels improve their financial knowledge and decision-making. Designed for a Hackathon by Banorte and coded in under 24 hours, this app leverages both experience and game-based learning techniques to simulate real-life financial situations, providing personalized feedback and tailored advice.
 
 ## 🎯 Project Vision
