@@ -1,63 +1,69 @@
 # Banorteach - Personalized Financial Education App
 
+**Hackathon Banorte 2024 Project**
+
 ![image](https://github.com/user-attachments/assets/8ed815d1-83e6-4d01-a1f1-f67eecedb32b)
 
-Banorteach is an innovative financial education app that uses AI-driven scenarios and gamified learning to help users of all experience levels improve their financial knowledge and decision-making. Designed for a Hackathon by Banorte and coded in under 24 hours, this app leverages both experience and game-based learning techniques to simulate real-life financial situations, providing personalized feedback and tailored advice.
+**Banorteach** is an AI-driven financial education app built entirely by me in just 24 hours for Hackathon Banorte 2024. This project combines gamified learning with realistic financial scenarios, making financial literacy accessible and engaging for all experience levels, and empowering users to make smarter financial decisions.
+
+---
 
 ## 🎯 Project Vision
 
-Our goal is to make financial literacy accessible, engaging, and personalized for everyone. Inspired by educational models like Duolingo, Banorteach incorporates interactive scenarios where users navigate through life-like financial challenges. Each scenario adapts to the user's specific profile, taking into account personal factors such as income, family situation, and career. This way, users can make financial decisions in a risk-free environment and learn from both successes and failures.
+Banorteach strives to make finance less intimidating by offering a tailored, engaging, and accessible educational experience. Inspired by platforms like Duolingo, the app personalizes financial simulations based on each user’s unique profile—such as income, career, and family status—so they can practice financial decisions in a risk-free environment.
 
 ### Why Banorteach?
-Many people struggle with financial literacy because learning about finances can be daunting. Banorteach simplifies this by combining two effective learning methods:
 
-1. **Experience:** Users face personalized financial simulations and scenarios based on their unique situations, with outcomes influenced by their choices. 
-2. **Game-based Learning:** Engaging, interactive learning experiences make the app fun while fostering the brain's ability to build stronger learning connections through play.
+Many people find finance complex and overwhelming. Banorteach simplifies financial literacy with:
+1. **Experience-based Learning**: Users navigate real-life financial scenarios, learning through hands-on, simulation-based experiences.
+2. **Gamification**: Interactive elements and rewards make learning finance fun, helping users retain knowledge more effectively.
 
-Banorteach is designed to simulate real financial life so users can make mistakes in the app and avoid them in real life.
+---
 
 ## 💡 Key Features
+
 ### 1. **Personalized Financial Scenarios**
-   - Users navigate through multiple-choice scenarios that simulate real-life financial decisions.
-   - AI generates personalized events based on user-provided data or existing Banorte account details (for Banorte customers).
-   - Feedback at the end of each scenario explains which decisions were right or wrong, helping users understand the consequences of their financial choices.
+   - Scenario-based simulations that mirror real-life financial decisions.
+   - AI-driven customization based on user profile or, for Banorte customers, account data.
+   - Detailed feedback after each scenario explains the impact of user choices.
 
 ### 2. **Gamified Learning and Progress Tracking**
-   - Users earn points and rewards for completing scenarios and learning modules.
-   - Future plans include monetary rewards for Banorte users based on financial progress, incentivizing responsible financial behavior.
+   - Points and rewards for completed modules; potential future integration of rewards for Banorte users.
 
 ### 3. **AI-Driven Financial Coach**
-   - Personalized financial advice and plans evolve as the user's financial situation changes.
-   - The AI generates custom scenarios to simulate future events based on optimistic, realistic, and pessimistic views, considering risks such as health issues or unforeseen expenses.
+   - Real-time financial advice that adapts to the user’s evolving financial status.
 
-### 4. **Adaptive and Engaging Experience**
-   - Users are guided through a learning journey that adapts to their experience level.
-   - In-app quizzes, challenges, and rewards ensure that the learning process stays interactive and engaging.
+### 4. **Engaging, Adaptive Experience**
+   - Tailored learning journeys based on user experience levels.
+   - Quizzes, challenges, and rewards ensure users stay motivated.
 
-## 5. **Goal Tracking**
-- Users can set and track financial goals, such as saving for a large purchase or paying off debt.
-- Each goal can have a title, target amount, and due date.
+### 5. **Goal Tracking**
+   - Users can set and monitor financial goals, such as savings targets, with customizations.
 
+---
 
 ## 🔧 Tech Stack
-- **Frontend:** React Native
-- **Backend:** Node.js, Express
-- **AI & Machine Learning:** Google Cloud's Vertex AI for generating personalized financial scenarios
 
+- **Frontend**: React Native
+- **Backend**: Node.js, Express
+- **AI & Machine Learning**: Google Cloud's Vertex AI for financial scenario personalization
+
+---
 
 ## 📚 Future Plans
-- **Reward System:** Offering monetary rewards and perks in xchange of in-app points for customer acquisition.
-- **Scalability:** Implementing a database to keep track of user data.
-- **Security:** Encryption and data protection for user data.
 
-## 💡 Inspiration
-Banorteach is inspired by successful learning models like Duolingo but takes the concept further by integrating hyper-personalized financial scenarios. By simulating real financial experiences and gamifying the learning process, we aim to make financial education more accessible, engaging, and practical for users.
+- **Reward System**: Potential for monetary perks to incentivize positive financial behaviors.
+- **Scalability**: Implementing robust database solutions to manage user data effectively.
+- **Security**: Employing advanced encryption to ensure user data privacy.
 
+---
+
+## 🔍 User Experience Preview
 ![image](https://github.com/user-attachments/assets/d3f86569-1f18-4907-b9b6-4439f397f798)
 ![image](https://github.com/user-attachments/assets/8ed815d1-83e6-4d01-a1f1-f67eecedb32b)
 ![image](https://github.com/user-attachments/assets/f95211ac-8598-490e-9ac5-83cf93567b23)
 ![image](https://github.com/user-attachments/assets/1d73dbcb-51f6-4952-b210-dc11cfecf6af)
 
+---
 
-## 📄 License
-This project is licensed under the MIT License.
+This project was very fun to build! Working as the sole developer for Banorteach at Hackathon Banorte 2024 meant bringing every aspect of the app to life, from brainstorming the concept to writing every line of code, all in just 24 hours. The challenge of creating something meaningful under intense time pressure taught me a ton—especially about balancing full-stack development with crafting a user-friendly and engaging UI/UX. Tackling AI integration on top of everything else made it even more rewarding and gave me a fresh perspective on building adaptive, personalized experiences from the ground up.
